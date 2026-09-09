@@ -8,6 +8,7 @@ public class CursoGithubApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Starting CursoGithubApplication...");
+		System.out.println("CursoGithubApplication is running...");
 		SpringApplication.run(CursoGithubApplication.class, args);
 	}
 
